@@ -10,6 +10,7 @@
   <li><a href="#bs">Scraping Data</a></li>
   <li><a href="#api">Sourcing Data</a></li>
   <li><a href="#ux">Video: The UI and UX</a></li>
+  <li><a href="#skills">In Finality: Skills</li>
 </ul>
 
 
@@ -136,6 +137,23 @@ https://user-images.githubusercontent.com/83652607/163685974-1b9bfa39-7bef-42be-
 <p>I was quite pleased to see how the website came together: the melded colors, the slick and straightforward interface. Please enjoy a quick video of the functionality and pages created within the Django framework.</p>
 
 https://user-images.githubusercontent.com/83652607/163687482-6487c094-b23f-4123-ab4c-523008ec2681.mp4
+
+<h2 id="skills">In Finality: Skills</h2>
+<p>This project allowed me to further hone several skills. They include:</p>
+<ul>
+  <li>Coding <strong>Python</strong></li>
+  <li>Coding <strong>CSS</strong></li>
+  <li>Coding <strong>HTML</strong></li>
+  <li>Working within the <strong>Django</strong> framework</li>
+  <li>Working with an <strong>MVC</strong> architectural pattern</li>
+  <li>Working with <strong>APIs</strong></li>
+  <li>Working within the <strong>Scrum</strong> framework</li>
+  <li>Working with the <strong>Agile</strong> methodology</li>
+</ul>
+
+<p>Overall, <strong>communication</strong> with project managers and co-workers was one of the master keys which led to a successful venture.</p>
+<br>
+<p>Thank you for your time.</p>
 
 
 
