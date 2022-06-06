@@ -39,7 +39,7 @@
 <h2 id="bs">Scraping Data via BeautifulSoup</h2>
 <p>One story required the use of the Python package BeautifulSoup to scrape data from an existing webpage. Check out the code and screenshot.</p>
 
-```
+```python
 ## Beautiful Soup webpage scraping.
 ## View for scraping our selected page.
 def top_mtb(request):
@@ -97,7 +97,7 @@ def top_mtb(request):
 <h2 id="api">Sourcing Data via an API</h2>
 <p>Another story had me locating an API that would be suitable for my particular use and implementing it as a source of data. I brought in all data provided and then selected only certain parameters (name of trail, description, difficulty [if specified]) that I wanted to pass to my webpage. Check out the code and video.</p>
 
-```
+```python
 def trail_api(request):
     # API code from https://rapidapi.com/trailapi/api/trailapi/
     url = "https://trailapi-trailapi.p.rapidapi.com/trails/explore/"
