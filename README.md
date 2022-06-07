@@ -16,7 +16,7 @@
 
 
 <h2 id="intro">Description</h2>
-<p>As part of our curriculum, we were tasked with a two-week sprint where we had to implement our own application (website) nested within the main application. This was done with other students as my teammates and instructors as project managers. Working according to the Agile methodology and within the scrum framework, I completed multiple stories where I created a smooth and navigable UI while defining a UX.</p>
+<p>My team was tasked with a two-week sprint where we had to implement our own application (website) nested within the main application. Working according to the Agile methodology and within the scrum framework, I completed multiple stories where I created a smooth and navigable UI while defining a UX.</p>
 
 <p><strong>My website allowed for:</strong></p>
 <ul>
